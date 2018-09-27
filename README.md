@@ -1,3 +1,3 @@
-# network
+# Network
 
 A sample hyperledger network
